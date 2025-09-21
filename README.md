@@ -28,3 +28,19 @@ Dashboard | Properties | Payments | Maintenance
 ---
 
 ## 📂 Repo Structure
+
+bata-property-manager/
+│
+├── app/                     # Core application logic
+│   ├── models/              # Database models (Properties, Payments, Requests)
+│   ├── routes/              # API endpoints
+│   ├── templates/           # HTML templates (Jinja/React components)
+│   └── static/              # CSS, JS, images
+│
+├── docs/screenshots/        # Project screenshots for README
+├── tests/                   # Unit and integration tests
+│
+├── .gitignore
+├── LICENSE
+├── README.md
+└── requirements.txt         # Dependencies
