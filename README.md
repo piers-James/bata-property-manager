@@ -20,11 +20,12 @@ This project demonstrates a **full CRUD dashboard** with multiple modules, makin
 
 ---
 
-## 🖼️ Screenshots
+## 📸 Screenshots
 
-Dashboard | Properties | Payments | Maintenance | Dashboard + Maintenance
-:-: | :-: | :-: | :-: | :-:
-![Dashboard](docs/screenshots/dashboard.png) | ![Properties](docs/screenshots/properties.png) | ![Payments](docs/screenshots/payments.png) | ![Maintenance](docs/screenshots/maintenance.png) | ![Dashboard + Maintenance](docs/screenshots/dashboardmaintenance.png)
+| Dashboard | Properties | Payments | Maintenance | Dashboard + Maintenance |
+| :-: | :-: | :-: | :-: | :-: |
+| ![Dashboard](./docs/screenshots/dashboard.png) | ![Properties](./docs/screenshots/properties.png) | ![Payments](./docs/screenshots/payments.png) | ![Maintenance](./docs/screenshots/maintenance.png) | ![Dashboard + Maintenance](./docs/screenshots/dashboardmaintenance.png) |
+
 
 ---
 
