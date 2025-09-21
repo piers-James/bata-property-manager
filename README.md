@@ -22,9 +22,9 @@ This project demonstrates a **full CRUD dashboard** with multiple modules, makin
 
 ## 🖼️ Screenshots  
 
-Dashboard | Properties | Payments | Maintenance  
-:-: | :-: | :-: | :-:  
-![Dashboard](docs/screenshots/dashboard.png) | ![Properties](docs/screenshots/properties.png) | ![Payments](docs/screenshots/payments.png) | ![Maintenance](docs/screenshots/maintenance.png)  
+Dashboard | Properties | Payments | Maintenance | Dashboard + Maintenance  
+:-: | :-: | :-: | :-: | :-:  
+![Dashboard](docs/screenshots/dashboard.png) | ![Properties](docs/screenshots/properties.png) | ![Payments](docs/screenshots/payments.png) | ![Maintenance](docs/screenshots/maintenance.png) | ![Dashboard + Maintenance](docs/screenshots/dashboardmaintenance.png)  
 
 ---
 
@@ -74,6 +74,16 @@ Follow these steps to run the project locally:
    ```bash
    python app/main.py
 
+ ---
+
+## 🤝 Contributing  
+Contributions are welcome!  
+- Fork the repo  
+- Create a new branch (`git checkout -b feature-name`)  
+- Commit your changes  
+- Open a pull request  
+
+---
 
 ## 📄 License
 This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
