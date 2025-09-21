@@ -20,4 +20,11 @@ This project demonstrates a **full CRUD dashboard** with multiple modules, makin
 
 ---
 
+## 📸 Screenshots
+Dashboard | Properties | Payments | Maintenance
+:--: | :--: | :--: | :--:
+![Dashboard](docs/screenshots/dashboard.png) | ![Properties](docs/screenshots/properties.png) | ![Payments](docs/screenshots/payments.png) | ![Maintenance](docs/screenshots/maintenance.png)  
+
+---
+
 ## 📂 Repo Structure
