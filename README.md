@@ -44,3 +44,38 @@ bata-property-manager/
 ├── LICENSE
 ├── README.md
 └── requirements.txt         # Dependencies
+
+## 🚀 Getting Started
+
+Follow these steps to run the project locally:
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/piers-James/bata-property-manager.git
+   cd bata-property-manager
+
+   ```
+
+2. **Set up a virtual environment (recommended)**
+   ```bash
+   python3 -m venv venv
+   source venv/bin/activate   # On Windows: venv\Scripts\activate
+
+    ```
+   
+3. **Install dependencies**
+   ```bash
+   pip install -r requirements.txt
+
+   ```
+
+4. **Run the application**
+   ```bash
+   python app/main.py
+
+   ```
+
+
+
+
+
